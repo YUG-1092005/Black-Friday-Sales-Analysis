@@ -1,7 +1,4 @@
 # Black-Friday-Sales-Analysis
-
-# 🛍️ Black Friday Sales Analysis Dashboard
-
 This project analyzes Black Friday sales data to understand customer purchasing behavior based on gender, age, marital status, city category, and other demographic factors. The insights are drawn from detailed data analysis using Python in a Jupyter Notebook.
 
 ---
