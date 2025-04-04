@@ -59,4 +59,4 @@ This project analyzes Black Friday sales data to understand customer purchasing 
 
 ## Dependencies used
 1 pandas, matplotlib, jupyter
-2. Dataset is attached with the repo in csv format
+2. Dataset is attached with the repo in txt format
